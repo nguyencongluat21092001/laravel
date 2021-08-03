@@ -10,7 +10,8 @@
 | to using a Closure or controller method. Build something great!
 |
 */
-Route::get('/','HomeController@showWelcome')
+Route::get('/','HomeController@showWelcome');
+// pull git to visua
 
 // use Illuminate\Support\Facades\Redirect;
 // Route ::get('/home','HomeController@showWelcome');
