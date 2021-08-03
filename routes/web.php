@@ -12,6 +12,7 @@
 */
 Route::get('/','HomeController@showWelcome');
 // pull git to visua
+// ok update;
 
 // use Illuminate\Support\Facades\Redirect;
 // Route ::get('/home','HomeController@showWelcome');
